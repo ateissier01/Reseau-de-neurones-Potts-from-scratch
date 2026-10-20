@@ -1,0 +1,3 @@
+Le réseau de neurone from scratch peut enregistré des motifs et les restitués, il possède aussi la possibilité de diminué les connections en ne gardant 
+que les connections de neurones suffisement proche. Cependant, il y a un énorme problème d'optimisation dans les poids, car les poids utilise toujours 
+pour l'instant la matrice complette, engendrant énormément de paramettre. 
